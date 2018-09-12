@@ -1,0 +1,303 @@
+html *
+{
+  font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+.main-header .logo {
+font-family: "Georgia", Times, "Times New Roman", serif;
+font-weight: bold;
+font-size: 2vw;
+text-align: left;
+position:relative;
+top:1vh;
+}
+.main-header {max-height: 60px;
+  background-color:#FFFFFF}
+  
+.navbar {max-height:60px }
+.sidebar-toggle {max-height: 50px;}
+
+.content-wrapper,.right-side {
+  background-color: #FFFFFF;
+}
+.skin-black .left-side, .skin-black .main-sidebar, .skin-black .wrapper {
+background-color: #FFFFFF;
+}
+.skin-black .main-header .navbar>.sidebar-toggle {
+    color: #fff;
+    border-right: 1px solid #fff;
+}
+
+.box.box-solid.box-info>.box-header {
+    background: #00c0ef;
+    background-color: #00c0ef;
+}
+
+.advanced .box-title {
+font-family: "Georgia", Times, "Times New Roman", serif;
+font-size:110%;
+position:relative;
+text-align:center;
+}
+/*Boxes in General which include title and icon */
+.icon_dis {
+    color: #e22a09;
+    position: relative;
+    top: 2vh;
+} 
+#title_main{
+  color: #2b82bf ;
+}
+
+
+.box_ .box-title {
+font-family: "Georgia", Times, "Times New Roman", serif;
+font-size:130%;
+
+color: #2b82bf ;
+}
+
+.boxx_ .box-title {
+font-family: "Georgia", Times, "Times New Roman", serif;
+font-size:130%;
+position:absolute;
+left:3.5vw;
+top:3vh;
+color: #000000;
+}
+
+#year_{
+  font-family:"Times New Roman";
+  font-weight:normal;
+  position:relative;
+  left:1.5vw;
+   color:#000000;
+}
+
+
+
+
+
+/*clear and submit button 
+two sepearate pair of buttons for different tabs on for students and other for course*/
+#clear_button,#clear_button_c{
+background-color: #EFEFEE ;
+font-size:100%;
+color:black;
+
+}  
+
+#submit_button_courses,#submit_button_student{
+background-color:#EFEFEE;
+font-size:15px;
+color:black;border: 2px solid transparent;
+border-bottom-color:#00BDFF  ;
+border-left-color:#00BDFF  ;
+border-right-color:#00BDFF  ;
+border-top-color:#00BDFF  ;
+
+}  
+#submit_button_studen.btn{
+  color:black;
+  border: 2px solid transparent;
+}
+
+#main_submit{
+position:relative;
+bottom:.7vw;
+left:1vw;
+color:white;
+font-family:Arial ;
+font-size:14px;
+font-weight:bold;
+background-color:black;
+ 
+}
+
+#time_frame{
+position:relative;
+top:27px;
+}
+/*end of fixing widgets*/
+
+
+/*AgeBox and Side Scrolelr*/
+#age_box.box-solid.box-primary{color:#354d4a}
+
+#age_range{
+font-family: "Georgia", Times, "Times New Roman", serif;
+font-size:10px;
+}
+
+
+h3{
+ font-family:"Georgia", Times, "Times New Roman", serif;
+font-size: 18px;
+}
+h5{
+  font-family:"Times New Roman";
+font-size: 13px; 
+}
+
+
+
+
+/*DROPDOWN*/
+
+.top_box{/*for the three boxes on top*/
+font-family: "Georgia", Times, "Times New Roman", serif;
+font-weight:bold;
+font-size: 1.5vw; 
+
+}
+
+.selectize-dropdown {line-height: 3vw; 
+font-family: "Georgia", Times, "Times New Roman", serif;
+
+}
+
+.selectize-input {line-height: 3vw;font-size:18px;
+
+}
+
+.label.control-label, .selectize-control.single{
+                           
+color: #00000    ;
+ }
+
+/*end of dropdown*/
+
+/*move tabsetpanel in dissagregate box*/
+#stud_course{
+  position:relative;
+  left:1vw;
+}
+
+/*Agjust graphs Enrollment*/
+.Plotly_Graph{
+ font-weight: bold;
+}
+
+
+
+.small-box.bg-yellow {
+  background-color: #FFFF00 ;
+  color: #000000 ;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  
+}
+/*Success and Retention tab graphs must be adjusted*/
+
+
+#standard_line{
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-size: 19px;
+  font-weight:bold;
+
+}
+#Add{
+  position:relative;
+  left:1vw;
+}
+#elac_img{
+  position:relative;
+  bottom:5vh;
+  
+}
+
+
+.box.box-solid.box-danger>.box-header {
+color:#000000;
+background:#DAF7A6  ;
+}
+.box.box-danger {
+border-top-color: #fd4500;
+background:#ffffff;
+}
+.box.box-solid.box-success {
+border-bottom-color: #66008e;
+border-left-color: #66008e;
+border-right-color: #66008e;
+border-top-color: #66008e;
+
+}
+.box.box-solid.box-success>.box-header {
+background-color:#feab3a;
+color:#000000;
+}
+.box.box-solid.box-primary{
+border-bottom-color: #fd4500;
+border-left-color: #fd4500;
+border-right-color: #fd4500;
+border-top-color: #fd4500;
+background:#ffffff;
+}
+
+.tabbable > .nav > li > a {
+ background-color:#9e886e;
+position: relative;
+color:white;
+left:1vh;
+}
+
+.tabbable> .nav > li[class=active] > a {
+background-color: #FFFFFF;
+color: #000000;
+}
+
+.skin-black .main-sidebar {
+background-color: #ffffff;
+}
+/* active selected tab in the sidebarmenu */
+.skin-black .main-sidebar .sidebar .sidebar-menu .active a{
+background-color: #E2C4BD;
+}
+#main,#help{
+color:#000000;
+}         
+
+.info-box {min-height: 100px;} .info-box-icon {height: 100px; line-height: 100px;}
+.info-box-content {padding-top: 0px; padding-bottom: 0px;}
+
+.shiny-notification-error {
+    color: #ffecdb;
+    background-color: #c11265;
+    border: 1px solid #ebccd1;
+    font-size: 18px;
+    font-weight: bold;
+}
+.shiny-notification-warning {
+    
+    font-size: 16px;
+  
+}
+
+.skin-black .sidebar a {
+    color: #ffffff;
+}
+.skin-black .sidebar-menu>li.active>a, .skin-black .sidebar-menu>li:hover>a {
+    color: #fff;
+    background: #ffffff;
+    border-left-color: #fff;
+}
+.skin-black .main-sidebar .sidebar .sidebar-menu .active a {
+    background-color: #ffffff;
+}
+
+nav .navbar-btn.sidebar-toggle {
+    display: none;
+}
+.right-side {
+    margin-left: 0;
+}
+#gender{
+  position:relative;
+  right:2vw;
+}
+.box.box-primary {
+    border-top-color: #f39c12;
+    border-top: 0px solid #d2d6de;
+    box-shadow: 0 0px 0px rgba(0,0,0,.1);
+}
+
+

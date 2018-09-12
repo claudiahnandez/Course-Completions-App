@@ -1,0 +1,77 @@
+<h3>Disaggregating by <b>Student</b> attributes </h3>
+<center><img src="hc_s_layout.jpg" width=1000 heigth=250 ></center></br></br>
+<ol>
+
+<li><h4><strong>Choose a specific Time Frame</strong></h4></li>
+<img src="time_frame_hc.jpg" width=400 heigth=200 align="left" hspace="30"></br>
+<ul style="list-style-type: disc;">
+
+  <li>Select a year from the <strong>Academic Yea</strong>r drop down menu. If an academic year is not selected, it will default to the current academic year.</li>
+	<li>OPTIONAL: Select a <strong>Semester</strong> for the selected academic year to view data for a specific semester. If a semester is not selected, it will default 	to the academic year. Note: Data for the current semester is not available until final grades have been submitted.</li>
+</ul>
+
+
+</br></br>
+<li><h4><strong>Specify a Department, Discipline, and Course</strong></h4></li>
+ <img src="departments_hc.jpg" width=800 heigth=100 hspace="30"><br/>
+<ul style="list-style-type: disc;">
+	<li>Select a <strong>Department</strong> from the drop down menu, otherwise it will default to "ALL". "ALL" means college-wide. Only one department maybe selected 	at a time. The departments listed are ones that have been offered in the selected <em>Academic Year</em> or <em>Semester</em>.</li>
+	
+	<li>OPTIONAL: Select a <strong>Discipline</strong> from the drop down menu, otherwise it will default to "ALL". "ALL" means all disciplines within the selected 		<em>Department</em>. Only one discipline may be selected at a time. The disciplines listed are ones that have been offered in the selected&nbsp;<em>Academic Year</em> or 	<em>Semester</em>&nbsp;for the selected <em>Department</em>.</li>
+	
+	<li>OPTIONAL: Select a <strong>Course</strong> from the drop down menu, otherwise it will default to "ALL". "ALL" means all courses within the selected 		<em>Discipline</em>. Only one course may be selected at a time. The courses listed are ones that have been offered in the selected&nbsp;<em>Academic Year</em> or 		<em>Semester</em> for the selected <em>Discipline</em>.</li>
+</ul>
+
+</br>
+
+<li><h4><strong> Click on the Historical Comparison</strong> tab</h4></li>
+<p>The color of the tab changes to white when currently selected</p>
+
+</br>
+
+<li><h4><strong>Click on the Student sub-tab to compare by student attributes..</strong></h4></li>
+<p>The color of the tab changes to white when selected.</p>
+
+</br>
+
+<li><h4><strong>Choose how many consecutive years or similar terms to compare</strong></h4></li>
+<img src="comparison_years.jpg" width=400 heigth=500 hspace="30" align="left">
+<ul>
+	<li>Select how many years/terms to view data for from the drop-down menu&nbsp;</li>
+
+	<li>Up to 5 years worth of data is available starting from the  <i>Academic Year</i> or <i>Semester</i> specified in Step 1.</li>
+
+	<li>The default is 2 years/terms.</li>
+
+	<li>If viewing academic year data, then consecutive years will display.</li>
+
+	<li>If viewing term data, then similar terms will display (e.g., compare Fall to Fall)</li>
+</ul>
+
+</br>
+
+<li><h4><strong>Choose what Mode to view data for</strong></h4></li>
+ <img src="mode.jpg" width=400 heigth=350 hspace="30" >
+<p>There are two options available:</p>
+
+<ol style="list-style-type: upper-alpha;">
+<ol style="list-style-type: upper-alpha;">
+<li><span style="text-decoration: underline;"><em>Filter by Category</em> </span>is used to compare one specific group to another within a category.<br />
+<ul>
+<li><span>Select one of the following categories from the drop down menu:&nbsp;</span><strong>Ethnicity</strong><span>,&nbsp;</span><strong>Age</strong><span>,&nbsp;</span><strong>Student</strong><span>&nbsp;</span><strong>Groups</strong><span>,&nbsp;</span><strong>Major</strong><span>,&nbsp;</span><strong>Probation</strong><span>, and&nbsp;</span><strong>Gender</strong><span>.</span></li>
+<li><span>The <strong>Ethnicity </strong>category allows for further disaggregation by gender if necessary.&nbsp; To use this feature, select &ldquo;Yes&rdquo; under <strong>Disaggregate by Gender</strong> and select desired preference.</span></li>
+<li><span>For all other categories, select the sub-groups to disaggregate.</span></li>
+</ul>
+</li>
+<li><span style="text-decoration: underline;"><em>View Overall Trends (Enrollment, Retention, &amp; Success)</em></span> is used to view trends overtime. Enrollment, retention and success rates will display over the course of years specified in Step 3.</li>
+</ol>
+</ol>
+<img src="mode_trends.jpg" width="700" heigth="550" hspace="30" />
+
+</br>
+
+<li><h4><strong>Click Filter</strong></h4></li>
+<img src="hc_buttons.jpg" width=250 heigth=80 hspace="30" alight="right">
+  <p>Click on Filter to submit the request based on the filters specified in Steps 1 to 6.</p>
+  <p>  The Clear button clears the filters from Step 6 if the "Filter by Category" mode was selected.</p>
+</ol>

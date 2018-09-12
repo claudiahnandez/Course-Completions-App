@@ -1,0 +1,132 @@
+<h2>Using the Graphs</h2>
+<p>Various types of graphs are used to visualize data throughout the app, each with informative features.</p>
+<h3><b>Headcount Slider</b></h3>
+<img src="show_headcount.jpg" align="left"   hspace="25"/>  
+<ul>
+	<li>Data on the graphs are defaulted to display <b>Enrollment</b> data.  To view headcount data, select the <b>Show Headcount</b> slider, located on the right side of the page.</li></br>
+
+	<li><b>Enrollment</b>: A count of the number of Enrollments at the section level. An individual student would be counted as many times as the number of classes in     			which he or she was enrolled; for example, a student attending three classes would be counted or duplicated three times. </li>
+	<li> <b>Headcount</b>: The actual number of individual students attending the college. College-wide headcount is an unduplicated count of students enrolled.</li>
+</ul>
+
+<h3><b>Pie Graphs</b></h3>
+<p>Pie graphs are only used in the first row of the Enrollment tab to summarize <b>Age</b>, <b>Gender</b>, <b>Academic Probation</b>, and <b>Major data</b>.</p>
+<img src="pie_chart.jpg" height="300" align="left"  hspace="50"/></br>
+
+	<ul>
+           <li><b>Pie Charts</b></br>
+	      <ul>
+                  <li>Legend: each chart has a legend with colored categories that correspond to each segment of the chart.</li>
+                  <li>Labels: each segment of the chart contains labels with the percentage of enrollments</li>
+                  <li>Hover box: hovering over each segment of the chart will display a pop-up (in the same color of the category) that contains the category name, number of enrollments/headcount, and 
+                   percentage of enrollments.</li>
+                  <li>Categories with less than 10 students will be censored for privacy reasons</li>
+               </ul>
+           </li>
+		   <img src="donut_chart.jpg" height="250" align="right"  hspace="50"/></br></br>
+	</br>	<li><b>Donut Chart</b></br>
+		<p>Legend: each chart has a legend with colored categories that correspond to each segment of the chart.</p>
+                <ul>
+                      <li>Labels: each segment of the chart contains labels with the percentage of enrollments.</li>
+    
+                      <li>Hover box: hovering over each segment of the chart will display a popup (in the same color of the category) that contains the category name, number of enrollments/headcount, and 
+                       percentage of enrollments.</li>
+
+                      <li>Categories with less than 10 students will be censored for privacy reasons.</li> 
+                 </ul>
+              </ul>
+	
+</br>	  </br>	 
+<h3><b>Bar Graphs</b></h3>
+<p>Bar graphs are used to display data in each of the 5 tabs but its interpretability differs in each tab. Below are explanations on how to interpret the bar graphs in each of the tabs. </p>
+
+<img src="student_groups.jpg" height="200" alig hspace="50" align="right" /></br>
+<ul>
+<li><b>Enrollment</b></br>
+Bar graphs are used in the <b>Enrollment</b> tab to summarize enrollment data for each <b>Student Group</b>.
+     <ul>
+        <li>Hover box: hovering over each bar will display a pop-up (in the same color of the category) that contains the category name, number of enrollments/headcount, and percentage of enrollments.</li>
+        <li>X-axis: student groups</li>
+        <li>Y-axis: number of enrollments</li>
+        <li>Categories with less than 10 students will be censored for privacy reasons.</li>
+        <li>A bar chart was used instead of a pie chart because students may belong to more than one student group.</li>
+
+     </ul>
+</li></br></br></br>
+
+
+<li><b>Retention and Success</b></br>
+Bar graphs are used in the <b>Retention</b> and <b>Success</b> tabs to illustrate retention and success rates for each subgroup.</br>
+<img src="h_bar_graph.jpg" height="200" align="left"  hspace="50"/>
+</br>
+    
+        <i>Vertical Bar Graph</i><br>
+         <ul style="list-style-type: square;">
+            <li>Vertical bar graphs are used in the <b>Age</b>, <b>Gender</b>, <b>Academic Probation</b> and <b>Majors</b> categories. </li>
+            <li>Hover box: hovering over each bar will display a pop-up (in the same color of the category) that contains the category name, number of enrollments/headcount, number of 
+              retentions/successes and retention/success rates.</li>
+            <li>X-axis: categories of student sub-groups</li>
+            <li>Y-axis: success or retention rate (0% to 100%)</li>
+            <li>Retention Rate is the percent of students who remained in the class without dropping with a W. </li>
+            <li>Success rate is the percent of student students who passed the class with an A, B, C, or P.</li>
+ 
+           </ul>
+        
+
+    </br></br><img src="v_bar_graph.jpg" height="200" align="left"  hspace="50"/>
+</br>
+    <i>Horizontal Bar Graph</i><br>
+     <ul style="list-style-type: square;">
+            <li>Horizontal bar graphs are used in the <b>Ethnicity</b> and <b>Student Group</b> categories. </li>
+            <li>Hover box: hovering over each bar will display a popup (in the same color of the category) that contains the category name, number of enrollments, number of 
+
+retentions/successes 
+              and retention/success rates.</li>
+            <li>X-axis: success or retention rate (0% to 100%)</li>
+            <li>Y-axis: categories of student sub-groups</li>
+            <li>Retention Rate is the percent of students who remained in the class without dropping with a W. </li>
+            <li>Success rate is the percent of student students who passed the class with an A, B, C, or P.</li>
+    
+   
+</ul>
+ </li>
+
+</br></br></br></br><img src="equity.jpg" height="200" align="right"  hspace="50"/>
+
+<li><b>Equity Index</b></br>
+The graphs in the <b>Equity Index</b> tab is a variation of what is presented in the <b>Retention</b> and <b>Success Tab</b>. </br>
+    <ul>
+         <li>The equity index refers to the equity for course success.</li>
+         <li>Hover box: hovering over each bar will display a popup (in the same color of the category) that contains the category name, number of enrollments, and the equity 	 index..</li>
+
+  
+         <li>The X/Y axis ranges from 0-1 to represent the equity index.</li>
+<img src="standard_line.jpg" align="left"   hspace="30"/>   
+         <li>The Standard Line slider, located on the right side of the page, is used to add a standard line equal to 1.  To add the standard line, move the slider so that it turns blue, as 
+           shows in the graphic below.</li>
+         <li>Equity indexes below 1 represent equity gaps.  Equity indexes equal or greater than 1 do not represent equity gaps.</li>
+         <li>Equity Index uses the proportionality methodology to measure potential equity gaps.  The proportionality methodology compares the percentage of a disaggregated subgroup in an 
+           initial cohort (enrolled) to its own percentage in the resultant outcome group (succeeded).</li>
+    </ul>
+</li>
+</br></br>
+<li><b>Historical Comparison</b></br>
+   <ul> 
+     <li><i>Bar graphs</i> are used to view overall enrollment, retention and success trends. Refer to prior <b>Bar Graphs</b> section for further interpretation.</li>
+     <img src="hc_s_graph.jpg" height="300" align="right"  hspace="50"/></br>
+	 <li><i>Line Graphs</i> are used in the historical comparison tab to display enrollment, retention rate, success rate and equity index.</li>
+     <li>Hover box: hovering over each point will display a pop-up (in the same color of the line) that contains the category name, number of enrollments and other relevant information.</li>
+	<li>Categories with less than 10 students will be censored for privacy reasons</li>
+
+	   <h4><i>Toolbar</i></h4>
+	   <ol type="i">
+		   <li>In the retention rate, success rate, and equity index graphs, an additional feature located on the right top corner of each graph is available when  	hovering over. This is used to better visualize data.</li>
+		   	<img src="hc_s_toolbar.jpg" align="left"   hspace="25"/>  
+		   <li>The icon with four arrows pointing outword (as depicted in the picture on left) is used to autoscale the data. It will zoom into the data for better view. </li>
+		   <li>The home icon (as depicted in the picture on left) is used to go to back to the default and reset the axes.</li>
+	   </ol>
+	   	
+	</ul>
+</li>
+
+</ul>

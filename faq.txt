@@ -1,0 +1,47 @@
+<h2>Frequently Asked Questions</h2>
+
+<h3><strong>How can this app be used?</strong></h3>
+<p>The purpose of this interactive and user-friendly app is for faculty, staff, and administrators to readily access data on enrollment, headcount, and course outcomes.This app gives an overall summary on how students are performing, and provides information for strategic planning to improve student success. Additionally, this app contains the ability to examine trends over time and identify equity gaps among various demographic groups. This app features interactive drop-down menus to easily filter enrollment, success and retention rates by department, discipline and course, as well as by academic year and term. Data may also be disaggregated by different demographic groups and course attributes (e.g. SGEC, online, hybrid, etc.).</p>
+<hr />
+<h3><strong>Why can I only search one semester?</strong></h3>
+<p>Since graphs are rendered by demographic groups (e.g., ethnicity, age, gender, etc.), selecting multiple semesters would result in larger graphs that could be difficult to interpret. This would deviate from the app's goal to inform users in a clear and concise manner.</p>
+<hr />
+<h3><strong>Why is this app taking a long time to load?</strong></h3>
+<p>Graphs may take long to render based on the amount of data being requested. The status bar on the bottom right corner of the page will inform you of the progress. The most common instances when the app may take longer to load include:</p>
+<ol>
+<li>Selecting specific departments that are larger may take the database longer to load all the information being requested. <em> Please note, when searching under department, 'ALL' indicates searching all departments in the college, which will take a substantial amount of time to process.</em></li>
+<li>Disaggregating data in the Historical tab and going back several years may also take longer due to the amount of data being requested.</li>
+</ol>
+<hr />
+<h3><strong>Why is there a '--' in the data?</strong></h3>
+<p>Due to privacy reasons, when the data requested has less than 10 students on either the enrollment, retention, and success graphs, a '--' will be used as a placeholder to censor the data to protect students' identity.</p>
+<hr />
+<h3><strong>Is there a way to see what student is in what category?</strong></h3>
+<p>Due to privacy reasons, under no circumstances will student information be displayed as to directly identify the student based on a particular category. To further strengthen the privacy of student information the data will be censored when the less than 10 students are included (refer to question above).</p>
+<hr />
+<h3><strong>Why is some data missing on the retention and success in enrollment graphs?</strong></h3>
+<p>Data is not missing - the retention or success rate is zero and therefore,no bar on the graph will appear. If the retention or success rate is zero, a '0%' will appear on the top or right of each graph.</p>
+<hr />
+<h3><strong>Why is there data missing in the Historical Tab graphs?</strong></h3>
+<p>Data in the Historical tab data is being filtered by several specific categories over the course of 2-5 years categories and may have been changed over the selected time period, data is not guaranteed for each year. If there is no data, the line graph will drop to zero for that year.</p>
+<hr />
+<h3><strong>What is the difference between enrollment and headcount?</strong></h3>
+<p>Enrollment is the count of the number of enrollments at the section level. An individual student would be counted as many times as the number of classes in which he or she was enrolled; for example, a student attending three classes would be counted or duplicated three times. Headcount is the actual number of individual students attending the college. College-wide headcount is an unduplicated count of students enrolled.</p>
+<hr />
+<h3><strong>How is retention defined? What students fall under that category?</strong></h3>
+<p>Retention includes all students who remained in the class until the end of the semester and did not drop the class. In other words, retention includes all students who received any grade except a W grade. Retained students is calculated as enrolled students minus students who received a W.</p>
+<hr />
+<h3><strong>How is success defined? What students fall under that category? </strong></h3>
+<p>Success includes all students who passed the class with a grade of A, B, C, or P.</p>
+<hr />
+<h3><strong>What does the Equity Index represent? How is it calculated?</strong></h3>
+<p>Equity Index uses the proportionality methodology to measure potential equity gaps. The proportionality methodology compares the percentage of a disaggregated subgroup in an initial cohort (enrolled) to its own percentage in the resultant outcome group (succeeded or retained). The formula for proportionality is the percentage in the outcome group divided by the percentage in the original cohort (outcome percentage/cohort percentage). A ratio of 1.0 indicates that a subgroup is present in both conditions at the same rate. A ratio of less than 1.0 indicates that the subgroup is less prevalent in the outcome than the cohort. Conversely, a ratio greater than 1.0 indicates that the subgroup is more prevalent in the outcome than the cohort. The higher the proportionality, the higher the rate at which a subgroup has attained a desired educational outcome; the lower the proportionality index the lower the attainment rate.</p>
+<hr />
+<h3><strong>Why are the some tabs omitted from my department?</strong></h3>
+<p>Tabs will be omitted when filtering by a department that contains non-credit courses. Non-credit courses are not graded therefore it is not possible to calculate the retention rate, success rate, or equity index. The omitted tabs are: Retention, Success, Equity Index, and Historical Comparison. A message will be displayed on the bottom right corner issuing a warning that further restates the issue.</p>
+<hr />
+<h3><strong>Where can I access this app from?</strong></h3>
+<p>Due to security reasons and data being pulled live from LACCD databases, this application may only be accessed within the college's network. Access to this application is limited to any computer connected using the college's Internet and Wi-Fi.</p>
+<hr />
+<h3><strong>How often does this get updated?</strong></h3>
+<p>Data is refreshed overnight.</p>

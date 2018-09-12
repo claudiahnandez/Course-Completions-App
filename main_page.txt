@@ -1,0 +1,46 @@
+<h2>Making a General Request</h2>
+<center><img src="main_page.jpg" width="1200" /></center>
+<p>The interface consists of filtering by a time frame, department, discipline, and course. Follow the steps below to complete a request to view data in the <strong>Enrollment</strong>, <strong>Retention</strong>, <strong>Success</strong> and <strong>Equity Index</strong> tabs. To view data in the <strong>Historical Comparison</strong> tab, refer to the section below &ldquo;How to use Historical Comparison tab?</p>
+<ol>
+<li>
+<h4><strong>Choose a specific time frame</strong></h4>
+</li>
+
+<p><img src="time_frame.jpg" width="400" align="left" hspace="30" /></p>
+
+<ul>
+<li>Select a year from the <strong>Academic Year</strong> drop down menu. If an academic year is not selected, it will default to the current academic year.</li>
+<li>OPTIONAL: Select a <strong>Semester</strong> for the selected academic year to view data for a specific semester. If a semester is not selected, it will default to the academic year. Note: Data for the current semester is not available until final grades have been submitted.</li>
+</ul>
+
+</br></br></br></br>
+
+<li>
+<h4><strong>Specify a Department, Discipline, and Course</strong></h4>
+</li>
+
+<p><img src="departments.jpg" width="800" hspace="30" /></p>
+
+<ul>
+<li>Select a <strong>Department</strong> from the drop down menu, otherwise it will default to "ALL". "ALL" means college-wide. Only one department may be selected at a time. The departments listed are ones that have been offered in the selected <em> Academic Year</em> or <em>Semester</em>.</li>
+<li>OPTIONAL: Select a <strong>Discipline</strong> from the drop down menu, otherwise it will default to "ALL". "ALL" means all disciplines within the selected Department. Only one discipline may be selected at a time. The disciplines listed are ones that have been offered in the selected <em> Academic Year</em> or <em>Semester</em> for the selected <em>Department</em>.</li>
+<li>OPTIONAL: Select a <strong>Course</strong> from the drop down menu, otherwise it will default to "ALL". "ALL" means all courses within the selected <em>Discipline</em>. Only one course may be selected at a time. The courses listed are ones that have been offered in the selected <em> Academic Year</em> or <em>Semester</em> for the selected <em>Department</em> and <em>Discipline</em>.</li>
+</ul>
+<li>
+<h4><strong>Click on Submit</strong></h4>
+</li>
+
+<p><img src="submit_button.jpg" width="100" hspace="30" /></p>
+
+<li>
+<h4><strong>View the data</strong></h4>
+</li>
+
+<figure><img src="all_result.jpg" width="900" hspace="30" />
+<figcaption><em><h5>The boxes in the picture above summarizes the filters (i.e., the time frame, department, discipline, and course) that were selected in Step 1 and Step 2. In the example above, the 2016-2017 academic year was selected and Department, Discipline and Course were defaulted to "ALL".<h5></em></figcaption>
+</figure>
+  
+<ul>
+<li>After clicking submit, data will be displayed in the following tabs: <strong>Enrollment</strong>, <strong>Retention</strong>, <strong>Success</strong>, and <strong>Equity Index</strong>.</li>
+</ul>
+</ol>
