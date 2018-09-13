@@ -31,4 +31,5 @@ time to find. I would recommend anyone doing a shiny app to look into <i>isolate
 by default anytime you call input$xxxxx it is automatically reactive, this can cause wierd errors.  The Historical Comparison Tab (on 
 right) is a perfect example of an extremly reactive tab, by this I mean, as soon as the user selects something there is a domino
 effect on other objects.
-
+</br></br>
+<strong><i>Note: the code is up but will not run on R studio because it needs immediate access to a server for the school I work for. For security resons, this server is not accessible. A link to the app will be posted soon...</i></strong>
